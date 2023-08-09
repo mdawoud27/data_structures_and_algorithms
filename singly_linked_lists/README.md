@@ -74,7 +74,6 @@ int main(void) {
 
 ### Contributing
 
-Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
-<br><br>
+- Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 
-Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
+- Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
