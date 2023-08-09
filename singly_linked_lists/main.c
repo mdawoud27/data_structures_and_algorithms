@@ -17,7 +17,7 @@ void insert_in_sorted_list(node **head, int number);
 void delete_node_end(node **head);
 void delete_node_first(node **head);
 void delete_node_pos(node **head, int pos);
-void delete_in_sorted_list(node **head, int value);
+void delete_node_with_value(node **head, int value);
 
 int is_list_circular(node *head);
 int cnt_node(node *head);
@@ -54,7 +54,11 @@ int main(void)
     delete_node_pos(&head, cnt_node(head));
     delete_node_pos(&head, 3);
 
+    delete_node_with_value(&head, 20);
+    delete_node_with_value(&head, 5);
+
     print_list(head);
+
     // int n = cnt_node(head);
     // printf("Number of linked list nodes are = %d\n", n);
     // if (is_list_circular(head) == 1)
@@ -252,8 +256,22 @@ void delete_node_pos(node **head, int pos)
     free(temp);
 }
 
-void delete_in_sorted_list(node **head, int value)
+void delete_node_with_value(node **head, int value)
 {
+    node *ptr = *head;
+    int pos = 0;
+
+    while (ptr)
+    {
+        if (ptr->value == value)
+        {
+            delete_node_pos(head, pos);
+            return;
+        }
+        ptr = ptr->next;
+        pos++;
+    }
+    printf("Your node's value is not exist\n");
 }
 
 void free_list(node *head)
