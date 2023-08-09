@@ -2,19 +2,25 @@
 
 This `main.c` contains C code that implements various operations on a singly linked list. These operations include ***insertion*** and ***deletion*** at different positions, **printing** the linked list, ***checking for circularity***, and ***more***.
 
-### Files
-- `main.c`: The main program that demonstrates the usage of linked list operations.
+### Project Structure
+*main files*
 
 - `linked_list.h`: Header file containing the struct definition of the linked list node and function declarations.
 
-- `linked_list.c`: Implementation of the linked list operations.
+- `main.c`: Main program demonstrating the usage of linked list operations.
+
+- `insertion.c`: Contains the different methods of insert.
+- `deletion.c`: Contains the different methods of delete.
+- `print.c`: Prints the values of nodes in the linked list.
+- `free.c`: Frees the memory allocated for the linked list.
+- `check_cycle.c`
 
 ### Compilation and Execution
 
 *To compile the code, use the following command:*
 
 ``` bash
-gcc main.c linked_list.c -o linked_list_program
+gcc *.c -o linked_list_program
 ```
 
 *To execute the compiled program, run:*
@@ -23,34 +29,33 @@ gcc main.c linked_list.c -o linked_list_program
 ./linked_list_program
 ```
 
-### Linked List Operations
+### Implemented Linked List Operations
 
-The implemented operations on the linked list are as follows:
+The following operations are implemented in this project:
 
-- **insert_node_end**: Inserts a node at the end of the linked list.
+- **Insertion:**
 
-- **insert_node_first**: Inserts a node at the beginning of the linked list.
+    - Insert a node at the end of the linked list.
+    - Insert a node at the beginning of the linked list.
+    -  Insert a node at a specified position in the linked list.
+    - Insert a node in a sorted manner in the linked list.
+    <br><br>
 
-- **insert_node_pos**: Inserts a node at a specified position in the linked list.
+- **Deletion:**
 
+    - Delete the last node from the linked list.
+    - Delete the first node from the linked list.
+    - Delete a node at a specified position from the linked list.
+    - Delete the first node with a specific value from the linked list.
+    <br><br>
 
-- **insert_in_sorted_list**: Inserts a node in a sorted manner in the linked list.
+- **Other Operations:**
 
-- **delete_node_end**: Deletes the last node from the linked list.
+    - Print the values of nodes in the linked list.
+    - Check if the linked list is circular.
+    - Count the number of nodes in the linked list.
+    - Free the memory allocated for the linked list.
 
-- **delete_node_first**: Deletes the first node from the linked list.
-
-- **delete_node_pos**: Deletes a node at a specified position from the linked list.
-
-- **delete_node_with_value**: Deletes the first node with a specific value from the linked list.
-
-- **print_list**: Prints the values of nodes in the linked list.
-
-- **is_list_circular**: Checks if the linked list is circular.
-
-- **cnt_node**: Counts the number of nodes in the linked list.
-
-- **free_list**: Frees the memory allocated for the linked list.
 
 ### Usage Example
 
@@ -70,6 +75,6 @@ int main(void) {
 ### Contributing
 
 Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
-
-
+<br><br>
+<hr>
 Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
