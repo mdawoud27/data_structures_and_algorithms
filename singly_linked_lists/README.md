@@ -29,6 +29,16 @@ gcc *.c -o linked_list_program
 ./linked_list_program
 ```
 
+*After running the above command, the result will be like the following:*
+
+``` bash
+node no.1 = 4
+node no.2 = 8
+node no.3 = 30
+node no.4 = 40
+```
+*BTW, these results appeared according to the functions are called in the `main.c` file*
+
 ### Implemented Linked List Operations
 
 The following operations are implemented in this project:
@@ -74,6 +84,7 @@ int main(void) {
 
 ### Contributing
 
-- Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
-
-- Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
+Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
+<br><br>
+<hr>
+Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
