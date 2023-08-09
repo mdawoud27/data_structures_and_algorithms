@@ -13,7 +13,7 @@ This `main.c` contains C code that implements various operations on a singly lin
 - `deletion.c`: Contains the different methods of delete.
 - `print.c`: Prints the values of nodes in the linked list.
 - `free.c`: Frees the memory allocated for the linked list.
-- `check_cycle.c`
+- `check_cycle.c`: Checks if the linked list is circular.
 
 ### Compilation and Execution
 
@@ -84,7 +84,6 @@ int main(void) {
 
 ### Contributing
 
-Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
-<br><br>
-<hr>
-Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
+- Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
+
+- Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
