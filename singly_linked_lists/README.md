@@ -76,5 +76,5 @@ int main(void) {
 
 Contributions to this repository are welcome. Feel free to fork the repository, make changes, and submit pull requests.
 <br><br>
-<hr>
+
 Feel free to customize the `README.md` further to provide more specific details about the *implementation*, *usage examples*, and any additional information you'd like to include.
