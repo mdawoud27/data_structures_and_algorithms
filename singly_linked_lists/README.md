@@ -11,13 +11,13 @@ This `main.c` contains C code that implements various operations on a singly lin
 
 ### Compilation and Execution
 
-To compile the code, use the following command:
+*To compile the code, use the following command:*
 
 ``` bash
 gcc main.c linked_list.c -o linked_list_program
 ```
 
-To execute the compiled program, run:
+*To execute the compiled program, run:*
 
 ``` bash
 ./linked_list_program
