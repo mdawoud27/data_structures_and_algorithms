@@ -30,16 +30,6 @@ gcc *.c -o linked_list_program
 ./linked_list_program
 ```
 
-*After running the above command, the result will be like the following:*
-
-``` bash
-node no.1 = 4
-node no.2 = 8
-node no.3 = 30
-node no.4 = 40
-```
-*BTW, these results appeared according to the functions are called in the `main.c` file*
-
 ### Implemented Linked List Operations
 
 The following operations are implemented in this project:
