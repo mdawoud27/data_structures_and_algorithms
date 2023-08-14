@@ -14,6 +14,7 @@ This `main.c` contains C code that implements various operations on a singly lin
 - `print.c`: Prints the values of nodes in the linked list.
 - `free.c`: Frees the memory allocated for the linked list.
 - `check_cycle.c`: Checks if the linked list is circular.
+- `is_palindrome.c`: Checks if a singly linked list is a palindrome.
 
 ### Compilation and Execution
 
