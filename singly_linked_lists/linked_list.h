@@ -32,6 +32,9 @@ int is_list_circular(node *head);
 /*count nodes in linked list*/
 int cnt_node(node *head);
 
+/*checks if a singly linked list is a palindrome or not*/
+int is_palindrome(listint_t **head);
+
 /*free list*/
 void free_list(node *head);
 
