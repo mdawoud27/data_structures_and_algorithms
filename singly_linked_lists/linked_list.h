@@ -34,6 +34,7 @@ int cnt_node(node *head);
 
 /*checks if a singly linked list is a palindrome or not*/
 int is_palindrome(node **head);
+int is_palindrome2(node **head);
 
 /*free list*/
 void free_list(node *head);

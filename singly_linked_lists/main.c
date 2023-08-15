@@ -46,7 +46,7 @@ int main(void)
     // else
     // 	printf("list is not a circular\n");
 
-     if (is_palindrome(&head) == 1)
+     if (is_palindrome2(&head) == 1)
         printf("Linked list is a palindrome\n");
     else
         printf("Linked list is not a palindrome\n");
