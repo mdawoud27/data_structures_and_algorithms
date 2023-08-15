@@ -50,6 +50,13 @@ int is_palindrome(node **head)
     return (1);
 }
 
+/**
+ * is_palindrome2 - Check if a singly linked list is a palindrome.
+ * using arrays
+ * @head: A pointer to the head of the linked list.
+ *
+ * Return: 1 if the linked list is a palindrome, 0 otherwise.
+ */
 int is_palindrome2(node **head)
 {
     /*An empty list is considered a palindrome*/
