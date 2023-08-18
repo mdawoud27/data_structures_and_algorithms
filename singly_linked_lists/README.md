@@ -3,6 +3,7 @@
 These main files contains C code that implements various operations on a singly linked list. These operations include ***insertion*** and ***deletion*** at different positions, **printing** the linked list, ***checking for circularity***, and ***more***.
 
 ### Project Structure
+
 *main files*
 
 - `linked_list.h`: Header file containing the struct definition of the linked list node and function declarations.
