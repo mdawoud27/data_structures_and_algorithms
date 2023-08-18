@@ -1,6 +1,6 @@
-## Linked List Operations
+## Singly Linked List Operations
 
-This `main.c` contains C code that implements various operations on a singly linked list. These operations include ***insertion*** and ***deletion*** at different positions, **printing** the linked list, ***checking for circularity***, and ***more***.
+These main files contains C code that implements various operations on a singly linked list. These operations include ***insertion*** and ***deletion*** at different positions, **printing** the linked list, ***checking for circularity***, and ***more***.
 
 ### Project Structure
 *main files*
