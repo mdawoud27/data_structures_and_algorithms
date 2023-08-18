@@ -1,8 +1,3 @@
-- [Singly Linked list](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/singly_linked_lists)
-- [Doubly linked list](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/doubly_linked_lists)
-- Circular Singly linked list
-- Circular Doubly linked list
-
 # Data Structures and Algorithms
 
 Welcome to the **Data Structures and Algorithms** repository! In this repository, you'll find comprehensive notes, explanations, and implementations of various data structures and algorithms. Whether you're learning the basics or looking to dive deeper into more complex concepts, this repository is here to assist you.
