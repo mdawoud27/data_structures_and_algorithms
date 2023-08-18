@@ -40,10 +40,3 @@ By contributing, you're helping create a valuable resource for others to learn a
 
 ---
 Feel free to customize this template further to match the specific content and structure of your repository. Good luck with your Data Structures and Algorithms learning journey!
-
-
-
-
-
-
-
