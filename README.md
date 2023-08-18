@@ -22,8 +22,8 @@ To make the most out of this repository:
 
 1. Explore the different folders to find explanations, notes, and code implementations for each data structure.
 
-1. If you're new to a specific concept, start with the relevant introductory notes before diving into the code.
 1. You're encouraged to run and experiment with the provided code to solidify your understanding.
+
 1. If you find any errors, have suggestions, or want to contribute, please refer to the ***Contributions*** section below.
 
 ## Contributions
