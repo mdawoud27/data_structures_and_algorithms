@@ -8,9 +8,9 @@ Welcome to the **Data Structures and Algorithms** repository! In this repository
 
 Here's an overview of the data structures covered in this repository:
 
-- [Singly Linked List](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/singly_linked_lists): Explanation and implementation of a singly linked list, a type of linked list where each node points to the next node.
+- [**Singly Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/singly_linked_lists): Explanation and implementation of a singly linked list, a type of linked list where each node points to the next node.
 
-- [Doubly Linked List](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/doubly_linked_lists): Explanation and implementation of a doubly linked list, featuring nodes that point both to the next and previous nodes.
+- [**Doubly Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/doubly_linked_lists): Explanation and implementation of a doubly linked list, featuring nodes that point both to the next and previous nodes.
 
 - Circular Linked List
 
