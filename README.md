@@ -17,9 +17,9 @@ Here's an overview of the data structures covered in this repository:
     - Circular Linked List
 
 - ### Stacks
-    - [**Stack using Array**]():
+    - [**Stack using Array**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/stack_array)
 
-    - [**Stack using Linked List**]():
+    - [**Stack using Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/stack_linkedlist)
 
 *This section will be updated over time.*
 
