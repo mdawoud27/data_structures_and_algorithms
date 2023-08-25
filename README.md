@@ -23,6 +23,8 @@ Here's an overview of the data structures covered in this repository:
 
 - ### Queues
     - [**Queue using Arrays**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/queue_array)
+      
+    - Queue using Linked Lists
 
 *This section will be updated over time.*
 
