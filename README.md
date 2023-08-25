@@ -21,6 +21,9 @@ Here's an overview of the data structures covered in this repository:
 
     - [**Stack using Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/stack_linkedlist)
 
+- ### Queues
+    - [**Queue using Arrays**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/queue_array)
+
 *This section will be updated over time.*
 
 ## Usage
