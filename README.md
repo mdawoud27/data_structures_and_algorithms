@@ -11,23 +11,23 @@ Here's an overview of the data structures covered in this repository:
 ## Data Structures
 - ### Linked lists
 
-    - [**Singly Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/singly_linked_lists)
+    - [**Singly Linked List**](./singly_linked_lists/)
 
-    - [**Doubly Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/doubly_linked_lists)
+    - [**Doubly Linked List**](./doubly_linked_lists/)
 
     - Circular Linked List
 
 - ### Stacks
-    - [**Stack using Array**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/stack_array)
+    - [**Stack using Array**](./stack_array/)
 
-    - [**Stack using Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/stack_linkedlist)
+    - [**Stack using Linked List**](./stack_linkedlist/)
 
 - ### Queues
-    - [**Queue using Arrays**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/queue_array)
+    - [**Queue using Arrays**](./queue_array/)
       
     - Queue using Linked Lists
 
-- ### Hash Tables
+- ### [Hash Tables](./hash_tables/)
 
 ## Algorithms
 
