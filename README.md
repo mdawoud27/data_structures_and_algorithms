@@ -8,6 +8,7 @@ Welcome to the **Data Structures and Algorithms** repository! In this repository
 
 Here's an overview of the data structures covered in this repository:
 
+## Data Structures
 - ### Linked lists
 
     - [**Singly Linked List**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/singly_linked_lists)
@@ -25,6 +26,10 @@ Here's an overview of the data structures covered in this repository:
     - [**Queue using Arrays**](https://github.com/mdawoud27/data_structures_and_algorithms/tree/main/queue_array)
       
     - Queue using Linked Lists
+
+- ### Hash Tables
+
+## Algorithms
 
 *This section will be updated over time.*
 
