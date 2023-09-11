@@ -8,7 +8,7 @@ Welcome to the **Data Structures and Algorithms** repository! In this repository
 
 Here's an overview of the data structures covered in this repository:
 
-## Data Structures
+**Data Structures**
 - ### Linked lists
 
     - [**Singly Linked List**](./singly_linked_lists/)
@@ -29,7 +29,7 @@ Here's an overview of the data structures covered in this repository:
 
 - ### [Hash Tables](./hash_tables/)
 
-## Algorithms
+**Algorithms**
 
 *This section will be updated over time.*
 
