@@ -9,25 +9,25 @@ Welcome to the **Data Structures and Algorithms** repository! In this repository
 Here's an overview of the data structures covered in this repository:
 
 **Data Structures**
-- ### Linked lists
+- #### Linked lists
 
-    - [**Singly Linked List**](./singly_linked_lists/)
+    - [Singly Linked List](./singly_linked_lists/)
 
-    - [**Doubly Linked List**](./doubly_linked_lists/)
+    - [Doubly Linked List](./doubly_linked_lists/)
 
     - Circular Linked List
 
-- ### Stacks
-    - [**Stack using Array**](./stack_array/)
+- #### Stacks
+    - [Stack using Array](./stack_array/)
 
-    - [**Stack using Linked List**](./stack_linkedlist/)
+    - [Stack using Linked List](./stack_linkedlist/)
 
-- ### Queues
-    - [**Queue using Arrays**](./queue_array/)
+- #### Queues
+    - [Queue using Arrays](./queue_array/)
       
     - Queue using Linked Lists
 
-- ### [Hash Tables](./hash_tables/)
+- #### [Hash Tables](./hash_tables/)
 
 **Algorithms**
 
