@@ -39,6 +39,7 @@ to make common data structures and algorithms readily available to C++ programme
 
 *This section will be updated over time.*
 
+*Resources will be available soon*
 ## Usage
 
 To make the most out of this repository:
