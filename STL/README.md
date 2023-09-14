@@ -7,7 +7,7 @@ Welcome to the Standard Template Library (STL) readme file! The STL is a powerfu
 This readme provides a brief overview of STL, how to use it, its core components, and some examples to get you started.
 
 ## 2. Contents
-STL consists of several essential components, categorized as follows:
+*STL consists of several essential components, categorized as follows:*
 
 ### 2.1. Containers
 
@@ -95,7 +95,7 @@ STL iterators provide a generalized way to access elements in containers. They a
 
 4. **Enjoy the benefits**: STL provides a wide range of containers (like vectors, lists, and maps) and algorithms (like sorting and searching) to simplify your code and make it more efficient.
 ## 4. Examples
-To help you get started, here are some basic examples of using STL components in C++:
+*To help you get started, here are some basic examples of using STL components in C++:*
 
 ### 4.1. Using Vectors
 ```cpp
@@ -144,7 +144,7 @@ int main() {
 
 ## 5. Contributing
 
-Contributions to the STL are welcome! If you find bugs, want to propose new features, or improve documentation, please consider contributing. Here's how you can contribute:
+*Contributions to the STL are welcome! If you find bugs, want to propose new features, or improve documentation, please consider contributing. Here's how you can contribute:*
 
 1. Fork the STL repository.
 1. Make your changes or additions.
