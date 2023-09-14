@@ -74,11 +74,7 @@ STL consists of several essential components, categorized as follows:
 
 ### 2.3. Iterators
 
-*STL iterators provide a generalized way to access elements in containers. They allow you to traverse and manipulate container elements without needing to know the specific container's underlying data structure.*
-
-### 2.4. Function Objects
-
-Function objects, also known as functors, allow you to use custom functions as arguments for STL algorithms. They are objects that can be called like functions, making them versatile and customizable.
+STL iterators provide a generalized way to access elements in containers. They allow you to traverse and manipulate container elements without needing to know the specific container's underlying data structure.
 
 ## 3. Usage
 
