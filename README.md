@@ -41,7 +41,7 @@ to make common data structures and algorithms readily available to C++ programme
 
 ## Resources
 
-*Resources will be available soon*
+*Resources will be available soon.*
 
 ## Contributions
 Contributions to this repository are highly appreciated! If you'd like to contribute:
