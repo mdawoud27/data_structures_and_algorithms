@@ -32,6 +32,11 @@ Here's an overview of the data structures covered in this repository:
 
 **Do you know STL** ? "Yes" : "Take a look [*here*](./STL/)"
 
+```cpp
+cout << (Do you know STL ? "Yes" : "Take a look");
+``` 
+[*here*](./STL/)
+
 ### Algorithms
 
 *This section will be updated over time.*
