@@ -34,27 +34,20 @@ STL consists of several essential components, categorized as follows:
     - pair
 - **Sequence:**
     - Arrays
-
     - [**Vectors** (`std::vector`)](./vector/): Dynamic arrays that can grow or shrink in size.
-
     - Lists
     <!-- (std::list): Doubly-linked lists that allow efficient insertion and removal of elements. -->
-
     - Deques
     <!-- (std::deque): Double-ended queues that support fast insertion and removal at both ends. -->
-
     - Forward list
 
 - **Associative:**
     - Maps
     <!-- (std::map): Associative containers that store key-value pairs in a sorted order. -->
-
     - Multimap
     <!--An associative container that allows multiple elements with the same key, sorted by key. -->
-
      - Sets
     <!--(std::set): Containers that store unique elements in a sorted order. -->
-
     - Multiset
     <!-- An associative container that allows multiple elements with the same value, sorted by value. -->
 <!-- 
@@ -67,23 +60,18 @@ STL consists of several essential components, categorized as follows:
 - **Unordered:**
     - Unordered Sets
     <!-- (std::unordered_set): Containers that store unique elements in an unordered manner for faster access. -->
-
     - Unordered Multiset
     <!-- An associative container that allows multiple elements with the same value in an unordered manner for faster access. -->
-
     - Unordered Maps
     <!--(std::unordered_map): Associative containers that store key-value pairs in an unordered manner for faster access. -->
-
     - Unordered Multimap
     <!-- An associative container that allows multiple elements with the same key in an unordered manner for faster access. -->
 
 - **Adapter:**
     - Stacks
     <!--(std::stack): LIFO (Last-In, First-Out) data structures. -->
-
     - Queues
     <!-- (std::queue): FIFO (First-In, First-Out) data structures. -->
-
     - Priority queue
     <!-- An adapter class that implements a priority queue, which allows efficient retrieval of the highest-priority element. -->
 
