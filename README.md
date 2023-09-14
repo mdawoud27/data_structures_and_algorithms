@@ -30,7 +30,7 @@ Here's an overview of the data structures covered in this repository:
 - #### [Hash Tables](./hash_tables/)
 
 
-**Do you know STL** ? Yes : Take a look [*here*](./STL/)
+**Do you know STL** ? "Yes" : "Take a look [*here*](./STL/)"
 
 ### Algorithms
 
