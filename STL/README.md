@@ -94,55 +94,8 @@ STL iterators provide a generalized way to access elements in containers. They a
     ```
 
 4. **Enjoy the benefits**: STL provides a wide range of containers (like vectors, lists, and maps) and algorithms (like sorting and searching) to simplify your code and make it more efficient.
-## 4. Examples
-*To help you get started, here are some basic examples of using STL components in C++:*
 
-### 4.1. Using Vectors
-```cpp
-#include <iostream>
-#include <vector>
-using namespace std;
-
-int main() {
-    vector<int> numbers; // Create an empty vector of integers.
-
-    // Add elements to the vector.
-    numbers.push_back(1);
-    numbers.push_back(2);
-    numbers.push_back(3);
-
-    // Iterate through the vector and print its elements.
-    for (auto num : numbers) {
-        cout << num << " ";
-    }
-
-    return 0;
-}
-```
-### 4.2. Sorting with Algorithms
-
-```cpp
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
-
-int main() {
-    vector<int> numbers = {5, 2, 9, 1, 5};
-
-    // Sort the vector in ascending order.
-    sort(numbers.begin(), numbers.end());
-
-    // Iterate and print the sorted elements.
-    for (auto num : numbers) {
-        cout << num << " ";
-    }
-
-    return 0;
-}
-```
-
-## 5. Contributing
+## 4. Contributing
 
 *Contributions to the STL are welcome! If you find bugs, want to propose new features, or improve documentation, please consider contributing. Here's how you can contribute:*
 
