@@ -6,29 +6,10 @@ Welcome to the Standard Template Library (STL) readme file! The STL is a powerfu
 
 This readme provides a brief overview of STL, how to use it, its core components, and some examples to get you started.
 
-## 2. Usage
-
-*To use STL in your C++ project, follow these steps*:
-
-1. **Include the necessary header files**: To access STL components, include the relevant header files in your code. For example, to use vectors, include `<vector>`
-    ```cpp
-    #include <vector>
-    ```
-2. **Use the STL components**: You can start using STL components in your code after including *the relevant header files*. Create objects of STL classes or use STL functions and algorithms as needed in your application.
-
-3. **Compile and run**: Compile your C++ code with a C++ compiler that supports STL (most modern C++ compilers do). Be sure to link the standard library when compiling.
-
-    ```bash
-    g++ program.cpp -o a
-    ./a
-    ```
-
-4. **Enjoy the benefits**: STL provides a wide range of containers (like vectors, lists, and maps) and algorithms (like sorting and searching) to simplify your code and make it more efficient.
-
-## 3. Components
+## 2. Contents
 STL consists of several essential components, categorized as follows:
 
-### 3.1. Containers
+### 2.1. Containers
 
 - **Simple:**
     - pair
@@ -75,7 +56,7 @@ STL consists of several essential components, categorized as follows:
     - Priority queue
     <!-- An adapter class that implements a priority queue, which allows efficient retrieval of the highest-priority element. -->
 
-### 3.2. Algorithms
+### 2.2. Algorithms
 
 *STL provides a wide range of algorithms for common operations on containers. Some of the essential algorithms include:*
 
@@ -91,14 +72,32 @@ STL consists of several essential components, categorized as follows:
 
 - **Aggregations** (`std::accumulate`): Computes the sum, product, or other aggregates of elements in a container.
 
-### 3.3. Iterators
+### 2.3. Iterators
 
 *STL iterators provide a generalized way to access elements in containers. They allow you to traverse and manipulate container elements without needing to know the specific container's underlying data structure.*
 
-### 3.4. Function Objects
+### 2.4. Function Objects
 
 Function objects, also known as functors, allow you to use custom functions as arguments for STL algorithms. They are objects that can be called like functions, making them versatile and customizable.
 
+## 3. Usage
+
+*To use STL in your C++ project, follow these steps*:
+
+1. **Include the necessary header files**: To access STL components, include the relevant header files in your code. For example, to use vectors, include `<vector>`
+    ```cpp
+    #include <vector>
+    ```
+2. **Use the STL components**: You can start using STL components in your code after including *the relevant header files*. Create objects of STL classes or use STL functions and algorithms as needed in your application.
+
+3. **Compile and run**: Compile your C++ code with a C++ compiler that supports STL (most modern C++ compilers do). Be sure to link the standard library when compiling.
+
+    ```bash
+    g++ program.cpp -o a
+    ./a
+    ```
+
+4. **Enjoy the benefits**: STL provides a wide range of containers (like vectors, lists, and maps) and algorithms (like sorting and searching) to simplify your code and make it more efficient.
 ## 4. Examples
 To help you get started, here are some basic examples of using STL components in C++:
 
