@@ -39,16 +39,9 @@ to make common data structures and algorithms readily available to C++ programme
 
 *This section will be updated over time.*
 
+## Resources
+
 *Resources will be available soon*
-## Usage
-
-To make the most out of this repository:
-
-1. Explore the different folders to find explanations, notes, and code implementations for each data structure.
-
-1. You're encouraged to run and experiment with the provided code to solidify your understanding.
-
-1. If you find any errors, have suggestions, or want to contribute, please refer to the ***Contributions*** section below.
 
 ## Contributions
 Contributions to this repository are highly appreciated! If you'd like to contribute:
