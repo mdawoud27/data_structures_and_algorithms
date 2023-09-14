@@ -29,6 +29,9 @@ Here's an overview of the data structures covered in this repository:
 
 - #### [Hash Tables](./hash_tables/)
 
+```text
+What about collection of template classes and functions to make common data structures and algorithms readily available to C++ programmers
+```
 **Do you know STL** ? "Yes" : "Take a look [*here*](./STL/)"
 
 ### Algorithms
