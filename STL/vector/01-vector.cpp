@@ -103,5 +103,10 @@ int main() {
         cout << vi[i] << " ";
     cout << '\n';
 
+    // Free vectors
+    v.clear();
+    vec.clear();
+    vi.clear();
+
     return 0;
 }

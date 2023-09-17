@@ -59,5 +59,9 @@ int main() {
     copy(arr, arr + 7, ostream_iterator<int>(cout, " "));
     cout << '\n';
 
+    // Free vactors
+    v.clear();
+    vec.clear();
+
     return 0;
 }

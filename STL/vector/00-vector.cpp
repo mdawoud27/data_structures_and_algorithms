@@ -31,5 +31,8 @@ int main() {
     v.pop_back();
     print_vector(v); // 10 0 0 0 0
 
+    // Free vector
+    v.clear();
+
     return 0;
 }
