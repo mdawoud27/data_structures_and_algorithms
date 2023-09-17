@@ -18,8 +18,8 @@ This readme provides a brief overview of STL, how to use it, its core components
     - [**Vectors** (`std::vector`)](./vector/): Dynamic arrays that can grow or shrink in size.
     - Lists
     <!-- (std::list): Doubly-linked lists that allow efficient insertion and removal of elements. -->
-    - Deques
-    <!-- (std::deque): Double-ended queues that support fast insertion and removal at both ends. -->
+
+    - [**Deques** (`std::deque`)](./deque/): Double-ended queues that support fast insertion and removal at both ends.
     - Forward list
 
 - **Associative:**
