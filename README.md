@@ -37,6 +37,8 @@ to make common data structures and algorithms readily available to C++ programme
 
 ### Algorithms
 
+- [Sorting Algorithms](./sorting_algorithms/)
+
 *This section will be updated over time.*
 
 ## Resources
