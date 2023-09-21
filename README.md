@@ -29,9 +29,11 @@ Here's an overview of the data structures covered in this repository:
 
 - #### [Hash Tables](./hash_tables/)
 
-  ### Algorithms
+
+### Algorithms
 
 - [Sorting Algorithms](./sorting_algorithms/)
+
 
 ```text
 What about collection of template classes and functions 
