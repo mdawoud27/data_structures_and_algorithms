@@ -35,10 +35,6 @@ Here's an overview of the data structures covered in this repository:
 - [Sorting Algorithms](./sorting_algorithms/)
 
 
-```text
-What about collection of template classes and functions 
-to make common data structures and algorithms readily available to C++ programmers
-```
 **Do you know STL** ? "Yes" : "Take a look [*here*](./STL/)"
 
 *This section will be updated over time.*
