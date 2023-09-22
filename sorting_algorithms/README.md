@@ -2,6 +2,8 @@
 
 This repo contains implementation of several sorting algorithms for both arrays or linked lists.
 
+First, I recommend to test your skills in time complexity (Big O notation) by passing [*his exam*]() (*will update soon*)
+
 ## Algorithms
 *The following algorithms are commonly used for sorting data in various applications.*
 
