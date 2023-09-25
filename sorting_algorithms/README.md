@@ -13,7 +13,7 @@ First, I recommend to test your skills in time complexity (Big O notation) by pa
 
 - [Selection Sort](./selection_sort.c)
 
-- Quick sort
+- [Quick sort](./quick_sort.c)
 - Shell sort 
 - Cocktail shaker sort
 - Counting sort
