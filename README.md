@@ -27,7 +27,9 @@ Here's an overview of the data structures covered in this repository:
       
     - Queue using Linked Lists
 
-- [Hash Tables](./hash_tables/)
+- #### [Hash Tables](./hash_tables/)
+
+- #### [Binary Trees](./binary_trees/)
 
 
 ### Algorithms
