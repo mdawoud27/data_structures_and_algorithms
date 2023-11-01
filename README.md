@@ -37,7 +37,7 @@ Here's an overview of the data structures covered in this repository:
 - [Sorting Algorithms](./sorting_algorithms/)
 
 
-**Do you know STL** ? "Yes" : "Take a look [*here*](./STL/)"
+### Do you know **STL** ? "Yes" : "Take a look [*here*](./STL/)"
 
 *This section will be updated over time.*
 
