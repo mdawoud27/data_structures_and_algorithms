@@ -26,13 +26,9 @@ This repository contains implementations of various search algorithms. Below, yo
 **Building the Project**
 
 1. Clone this repository to your local machine.
-    ```bash
-    git clone https://github.com/yourusername/search-algorithms.git
-    ```
-1. Change to the search_algorithms directory.
-    ```bash
-    cd search_algorithms
-    ```
+
+1. Change to the `search_algorithms` directory.
+
 1. Compile the project and run it.
     ```bash
     gcc *.c -o search
