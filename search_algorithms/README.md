@@ -16,10 +16,11 @@ This repository contains implementations of various search algorithms. Below, yo
 
 
 **Helper Functions and Files**
-- `main.c`: The entry point.
+- The entry point: `main.c`
+
 - Header file [`search_algos.h`](./search_algos.h)
 
-- `print_array.c` function.
+- Function `print_array`
 
 ### Getting Started
 **Building the Project**
