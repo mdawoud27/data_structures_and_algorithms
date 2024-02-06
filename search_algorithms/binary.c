@@ -61,8 +61,8 @@ int binary_search_recursive(int *array, size_t size, int value)
 	size_t mid = size / 2;
 
 	/*  left = 0, right = size - 1
-		mid = left + (right - left) / 2
-		passing will be like that => (array, left, right);
+	    mid = left + (right - left) / 2
+	    passing will be like that => (array, left, right);
 	*/
 	print_array(array, 0, size - 1);
 	if (array[mid] == value)
