@@ -20,11 +20,17 @@ int main(void)
     printf("Found %d at index: %d\n\n", 42, linear_search(array_linear, size_linear, 42));
     printf("Found %d at index: %d\n", 999, linear_search(array_linear, size_linear, 999));
 
-/*Binary Search - MAKE SURE THAT ARRAY IS REALLY SORTED :)*/
+/*Binary Search (Recursive) - MAKE SURE THAT ARRAY IS REALLY SORTED :)*/
     printf("\n** Binary Search **\n");
-    printf("Found %d at index: %d\n\n", 2, binary_search(array_binary, size_binary, 2));
-    printf("Found %d at index: %d\n\n", 5, binary_search(array_binary, 5, 5));
-    printf("Found %d at index: %d\n", 999, binary_search(array_binary, size_binary, 999));
+    printf("Found %d at index: %d\n\n", 2, binary_search_recursive(array_binary, size_binary, 2));
+    printf("Found %d at index: %d\n\n", 5, binary_search_recursive(array_binary, 5, 5));
+    printf("Found %d at index: %d\n", 999, binary_search_recursive(array_binary, size_binary, 999));
+
+/*Binary Search (Iterative) - MAKE SURE THAT ARRAY IS REALLY SORTED :)*/
+    printf("\n** Binary Search **\n");
+    printf("Found %d at index: %d\n\n", 2, binary_search_iterative(array_binary, size_binary, 2));
+    printf("Found %d at index: %d\n\n", 5, binary_search_iterative(array_binary, 5, 5));
+    printf("Found %d at index: %d\n", 999, binary_search_iterative(array_binary, size_binary, 999));
 
     return (EXIT_SUCCESS);
 }
