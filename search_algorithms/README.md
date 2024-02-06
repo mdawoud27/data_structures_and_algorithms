@@ -2,8 +2,9 @@
 This repository contains implementations of various search algorithms. Below, you'll find a list of algorithms, information on helper functions, and instructions on how to use and contribute to the project.
 
 ## Algorithms
-*The following search algorithms are included, each tailored for different scenarios and data structures.. 
-**for more details or explanation check this** [playlist](https://youtube.com/playlist?list=PLEJXowNB4kPwTb4BivkY0dENHmXdOEM3V&feature=shared)* || *[geeksforgeeks](https://www.geeksforgeeks.org/searching-algorithms/).*
+*The following search algorithms are included, each tailored for different scenarios and data structures..*
+
+***for more details or explanation check this** [playlist](https://youtube.com/playlist?list=PLEJXowNB4kPwTb4BivkY0dENHmXdOEM3V&feature=shared)* || *[geeksforgeeks](https://www.geeksforgeeks.org/searching-algorithms/).*
 
 - [Linear Search](./linear.c)
 
