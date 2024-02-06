@@ -1,0 +1,12 @@
+In C and C++, when you use the `sqrt` function from the math library (`math.h`), you need to 
+link the `math` library explicitly using the `-lm` option during compilation.
+
+The reason for this is that functions like `sqrt`, which are part of the math library,are not automatically
+included when linking your program. By default, the linker only links the standard C library.
+When you use functions from additional libraries like the math library, you need to inform the linker explicitly.
+
+The `-lm` option tells the linker to include the math library (`libm.a` or `libm.so`) when linking your program.
+This ensures that the `sqrt` function and other mathematical functions are available for use in your program.
+
+So, when you write code that uses `sqrt`, you need to compile it with `-lm` to ensure that the linker
+can find and include the math library, allowing you to use the sqrt function without any errors.

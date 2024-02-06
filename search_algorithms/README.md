@@ -2,16 +2,18 @@
 This repository contains implementations of various search algorithms. Below, you'll find a list of algorithms, information on helper functions, and instructions on how to use and contribute to the project.
 
 ## Algorithms
-*The following search algorithms are included, each tailored for different scenarios and data structures:*
+*The following search algorithms are included, each tailored for different scenarios and data structures.. **for more details or explanation check this** [playlist](https://youtube.com/playlist?list=PLEJXowNB4kPwTb4BivkY0dENHmXdOEM3V&feature=shared)* || *[geeksforgeeks](https://www.geeksforgeeks.org/searching-algorithms/).*
 
 - [Linear Search](./linear.c)
 
 - [Binary Search](./binary.c)
 
-- Jump Search
+- [Jump Search](./jump.c)
 
-- Interpolation Search
-- Exponential search
+- [Interpolation Search](./interpolation.c)
+
+- [Exponential search](./exponential.c)
+
 - Advanced binary search
 
 
@@ -31,7 +33,7 @@ This repository contains implementations of various search algorithms. Below, yo
 
 1. Compile the project and run it.
     ```bash
-    gcc *.c -o search
+    gcc *.c -o search -lm  # Check the `lm_flag.txt`
     ./search
     ```
 
@@ -50,5 +52,3 @@ size_t result = linear_search(array, size, value);
 
 ### Contributing
 Contributions to this project are encouraged. If you wish to contribute, fork the repository, make your changes, and submit a pull request.
-
-Feel free to customize this `README` further to include more project-specific details or instructions as needed.
