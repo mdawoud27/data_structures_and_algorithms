@@ -55,7 +55,7 @@ _Resources will be available soon._
   
     - [*Summmary*](./arrays_vs_linked_lists.md)
 
-- *Advanced: Dynamic Arrays or Array Lists:* [file](./arrays/dynamicArrays.md) | [code](./arrays/dynamicArrays.cpp)
+- *Advanced: Dynamic Arrays or Array Lists:* [Reference](https://www.youtube.com/watch?v=5AllG-i_yto) | [Notes](./arrays/dynamicArrays.md) | [code](./arrays/dynamicArrays.cpp)
 
 
 ## Contributions
