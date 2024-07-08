@@ -30,6 +30,6 @@
 
 ## Major differences between array and linked-list are listed below: 
 <div style="display: grid; place-items: center;">
-    <img src="./images/arrays_vs_linkedlists.png" style="max-width: 100%; height: auto;">
+    <img src="./images/arrays_vs_linkedlists.png">
 </div>
 
