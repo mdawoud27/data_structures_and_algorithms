@@ -1,7 +1,6 @@
 # Linked List vs Array
 
-*Both Arrays and Linked Lists can be used to store linear data of similar types, but each has its advantages and disadvantages.*
-
+_Both Arrays and Linked Lists can be used to store linear data of similar types, but each has its advantages and disadvantages._
 
 ## Points in favour of Linked Lists
 
@@ -10,7 +9,6 @@
 2. **Expensive Insertion:** Inserting a new element in an array is expensive because room must be created for the new element, which involves shifting existing elements.
 
 3. **Expensive Deletion:** Deleting elements in an array can be costly unless special techniques are used. For example, deleting the 5th element requires shifting all subsequent elements.
-
 
 ## Advantages and Disadvantages of Linked Lists Over Arrays
 
@@ -25,9 +23,6 @@
 - Extra Memory: Each element requires additional memory for a pointer.
 - Cache Locality: Arrays have better cache locality, leading to better performance, while linked lists have poor cache locality.
 
+## Major Differences Between Array and Linked List
 
-## Major Differences Between Array and Linked List 
-<div style="display: grid; place-items: center;">
-    <img src="./images/arrays_vs_linkedlists.png">
-</div>
-
+![Arrays vs Linked Lists](./images/arrays_vs_linkedlists.png)
