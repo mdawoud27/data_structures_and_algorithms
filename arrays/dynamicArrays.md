@@ -36,7 +36,7 @@ A dynamic array, also known as an array list, is a data structure that combines 
    - Remove the element and shift subsequent elements left, if necessary.
    - Optionally, resize the array to reduce unused space.
 
-## [*Example Code*](./dynamicArrays.cpp)
+[*Reference*](https://www.youtube.com/watch?v=5AllG-i_yto) | [*Example Code*](./dynamicArrays.cpp)
 
 ## Conclusion
 
