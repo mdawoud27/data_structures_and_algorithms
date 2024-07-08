@@ -49,6 +49,13 @@ _This section will be updated over time._
 
 _Resources will be available soon._
 
+### Some useful topics to be covered:
+
+- [*Arrays vs Linked Lists*:](https://www.geeksforgeeks.org/linked-list-vs-array/) Learn when it is better to use an array vs a linked list.
+  
+    - [*Summmary*](./arrays_vs_linked_lists.md)
+
+
 ## Contributions
 
 Contributions to this repository are highly appreciated! If you'd like to contribute:
