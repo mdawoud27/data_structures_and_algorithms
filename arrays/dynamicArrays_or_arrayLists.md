@@ -1,6 +1,6 @@
 # Advanced: Dynamic Arrays or Array Lists
 
-Learn how we might create arguably the most used data structure in the world: the dynamic array (also known as the array list).
+*Learn how we might create arguably the most used data structure in the world: the dynamic array (also known as the array list).*
 
 ## What is a Dynamic Array?
 
@@ -35,6 +35,8 @@ A dynamic array, also known as an array list, is a data structure that combines 
 4. **Deletion:**
    - Remove the element and shift subsequent elements left, if necessary.
    - Optionally, resize the array to reduce unused space.
+
+## [*Example Code*](./dynamicArrays_or_arrayLists.cpp)
 
 ## Conclusion
 
