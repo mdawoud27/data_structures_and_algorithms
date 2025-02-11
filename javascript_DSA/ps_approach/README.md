@@ -7,7 +7,7 @@
 ## How do you improve?
 
 - **Devise** a plan for solving problems - _[this section](./README.md)_
-- **Master** common problem solving patterns - _[here]()_
+- **Master** common problem solving patterns - _[here](../ps_patterns/README.md)_
 
 ## Problem Solving Strategies
 

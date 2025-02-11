@@ -10,3 +10,5 @@
 - [Analyzing Performance of Arrays and Objects](./bigO_notaton/analyzing_performance_of_arrays_and_objects.md)
 
 ### [Problem Solving Approach](./ps_approach/README.md)
+
+### [Problem Solving Patterns](./ps_patterns/README.md)
