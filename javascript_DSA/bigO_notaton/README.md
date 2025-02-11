@@ -129,6 +129,14 @@ function factorial(n) {
 
 Space complexity refers to the amount of memory an algorithm uses relative to its input size.
 
+Where as time complexity measures the time to run program, space complexity measures memory usage of a specific program
+
+### What makes space complexity increase?
+
+- Assigning varables
+- creating new data structures
+- function calling and allocation
+
 ### 1. **O(1) - Constant Space**
 
 An algorithm uses constant space if it requires the same amount of memory regardless of input size.
