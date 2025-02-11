@@ -1,4 +1,4 @@
-# Algorithms and Problem Solving Patterns
+# Algorithms and Problem Solving Approaches
 
 ## What is an Algorithms?
 
