@@ -8,6 +8,11 @@ _This repository serves as a hub for learning and understanding different data s
 
 Here's an overview of the data structures covered in this repository:
 
+### JavaScript Algorithms and Data Structures Masterclass
+
+- [Notes](./javascript_DSA/)
+- [_Course_](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+
 ### Data Structures
 
 - #### [Arrays](./arrays/)
@@ -49,14 +54,13 @@ _This section will be updated over time._
 
 _Resources will be available soon._
 
-### Some useful topics to be covered:
+### Some useful topics to be covered
 
-- [*Arrays vs Linked Lists*:](https://www.geeksforgeeks.org/linked-list-vs-array/) Learn when it is better to use an array vs a linked list.
-  
-    - [*Summmary*](./arrays_vs_linked_lists.md)
+- [_Arrays vs Linked Lists_:](https://www.geeksforgeeks.org/linked-list-vs-array/) Learn when it is better to use an array vs a linked list.
 
-- *Advanced: Dynamic Arrays or Array Lists:* [Reference](https://www.youtube.com/watch?v=5AllG-i_yto) | [Notes](./arrays/dynamicArrays.md) | [code](./arrays/dynamicArrays.cpp)
+  - [_Summmary_](./arrays_vs_linked_lists.md)
 
+- _Advanced: Dynamic Arrays or Array Lists:_ [Reference](https://www.youtube.com/watch?v=5AllG-i_yto) | [Notes](./arrays/dynamicArrays.md) | [code](./arrays/dynamicArrays.cpp)
 
 ## Contributions
 

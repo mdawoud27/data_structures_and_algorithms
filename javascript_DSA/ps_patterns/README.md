@@ -1,1 +1,1 @@
-# Commin Problem Solving Patterns
+# Common Problem Solving Patterns
