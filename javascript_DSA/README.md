@@ -8,3 +8,5 @@
 
 - [Big O Notation in JavaScript](./bigO_notaton/bigO_in_js.md)
 - [Analyzing Performance of Arrays and Objects](./bigO_notaton/analyzing_performance_of_arrays_and_objects.md)
+
+### [Problem Solving Approach](./ps_approach/README.md)
